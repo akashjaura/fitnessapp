@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fitnesstracker</string>
+    <string name="before_age_18">Before Age 18</string>
+    <string name="back_exercise1">
+        step 1- lie down on the flat surface\n
+        step 2- now take your one hand on the step\n
+        step 3-take hand backward put another on step\n
+        step-4-now perform this again
+    </string>
+
+
+</resources>
